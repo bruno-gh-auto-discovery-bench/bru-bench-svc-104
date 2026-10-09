@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "gateway-contract",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
